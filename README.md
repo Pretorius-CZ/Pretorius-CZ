@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Pretorius-CZ
+- 👋 Hi, my name is Michal Malich
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python, Javascript, HTML, CSS
-- 💞️ I’m looking to collaborate on Python projects
-- 📫 flambiz.cz@gmail.com
+- 💞️ I’m looking to collaborate on Python projects or some FE projects
+- 📫 You can reach me on flambiz.cz@gmail.com, or Whatsapp +420774171503
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
